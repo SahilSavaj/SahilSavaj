@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style="filter: invert(100%);" href="https://twitter.com/sahil_savaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.0.0/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a style="filter: invert(100%);" href="https://twitter.com/sahil_savaj" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/16438666591561032650-512.png" alt="" height="30" width="40" /></a>
 <a style="color: white;" href="https://www.linkedin.com/in/sahil-savaj-987145210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a style="color: white;" href="https://www.instagram.com/sahilsavaj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
